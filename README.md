@@ -1,4 +1,4 @@
-#Current List of Projects (2019)
+# Current List of Projects (2019)
 
 This year I want to transition into a more 'developer' role, with a pariticular focus on Front-end + Design. I am looking to try and find an internship/job as a front-end developer by the <b>1st of July 2019.</b>
 
