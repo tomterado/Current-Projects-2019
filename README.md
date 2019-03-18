@@ -9,6 +9,7 @@ Here is what I am working on:
 - [x] Pomodoro Timer Chrome Extension (HTML/JS)
 - [x] Understanding the weird things of JS (Udemy Course)
 - [ ] Simple website (React)
+- [ ] Personal Portfolio website (React)
 - [ ] Receipt Reader (Facebook Messenger  + Google Vision API )
 - [ ] Alexa Skill (Node)
 
