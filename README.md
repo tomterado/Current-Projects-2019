@@ -7,7 +7,7 @@ This year I want to transition into a more 'developer' role, with a pariticular 
 Here is what I am working on:
 - [x] Odin Project (HTML/CSS/JS/Ruby/Rails)
 - [x] Pomodoro Timer Chrome Extension (HTML/JS)
-- [ ] Understanding the weird things of JS (Udemy Course)
+- [x] Understanding the weird things of JS (Udemy Course)
 - [ ] Simple website (React)
 - [ ] Receipt Reader (Facebook Messenger  + Google Vision API )
 - [ ] Alexa Skill (Node)
