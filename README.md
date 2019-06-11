@@ -14,3 +14,11 @@ Here is what I am working on:
 - [ ] Alexa Skill (Node)
 
 
+Websites:
+- [x] Scrolling Text
+- [x] Art Website Concept 1
+- [ ] XXX
+- [ ] XXX
+- [ ] XXX
+- [ ] XXX
+- [ ] XXX
